@@ -1,0 +1,47 @@
+{
+  "results": [
+    {
+      "gender": "female",
+      "name": { "title": "Ms", "first": "Ela", "last": "Chan" },
+      "location": {
+        "street": { "number": 1571, "name": "Grensen" },
+        "city": "Kirkenes",
+        "state": "Oslo",
+        "country": "Norway",
+        "postcode": "2809",
+        "coordinates": { "latitude": "45.8409", "longitude": "111.2721" },
+        "timezone": {
+          "offset": "-8:00",
+          "description": "Pacific Time (US & Canada)"
+        }
+      },
+      "email": "ela.chan@example.com",
+      "login": {
+        "uuid": "31a22469-77cd-4e18-a063-69a4c7e69306",
+        "username": "browngorilla614",
+        "password": "hercules",
+        "salt": "CVZ4eH5c",
+        "md5": "4ba50bf0be0a9e3273fff9d08534ce70",
+        "sha1": "24c2e2d128d180eb8afb3a21214faa9768b41865",
+        "sha256": "65e5dd95642406b4e3a8b27a6afb06bcc65268c88ff59dc1fc5eefb04a97c2e6"
+      },
+      "dob": { "date": "1980-11-27T15:13:09.038Z", "age": 42 },
+      "registered": { "date": "2007-07-24T02:13:22.457Z", "age": 16 },
+      "phone": "58362041",
+      "cell": "97332567",
+      "id": { "name": "FN", "value": "27118003611" },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/women/77.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/women/77.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/women/77.jpg"
+      },
+      "nat": "NO"
+    }
+  ],
+  "info": {
+    "seed": "335ea42d6660b99c",
+    "results": 1,
+    "page": 1,
+    "version": "1.4"
+  }
+}
